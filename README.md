@@ -46,7 +46,6 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-<br/>
 
 ![Snake animation](https://github.com/gsajulia/gsajulia/blob/output/github-contribution-grid-snake.svg)
 
