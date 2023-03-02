@@ -12,7 +12,7 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
 
 <p><a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a></p>
 <br/>
-<img align='left' style='border-radius:100px; margin-right: 20px;' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
+<img align='left'width="130px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
 
 <br/>
 <br/>
