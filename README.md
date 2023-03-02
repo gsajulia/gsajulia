@@ -13,18 +13,15 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
   <a href="https://www.instagram.com/julilet_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:julia.gs.acosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julia-gabriela-santi-acosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  <br/>
+
+  <img width="130px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
+  <br/>
+  <br/>
+  <p><a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a></p>
 </div>
 
-<br/>
-
-<p><a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a></p>
-<br/>
-<img align='left'width="130px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
