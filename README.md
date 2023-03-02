@@ -1,33 +1,37 @@
+<style>
+  img[src$="#avatar"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+</style>
+
 # Hi there 👋 👩‍💻
 
 I've been working with software development for more than 4 years, mainly with Frontend technologies.
 
 I love to talk and exchange ideas about the technology area. So feel free to send me a message if you have questions, curiosities or just want to chat!
 
-<div>
- <div align="center">
-<a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a>
+-   🧙‍♀️ I’m currently working as Senior Frontend Developer at Sebratec
+
+-   🌱 I’m currently learning Cypress and Node.js
+
+![Avatar](https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif)
+
+<div align='center'>
+  <img align='left' style='border-radius:100px; margin-right: 20px;' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
+  <a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a>
 </div>
-   <br/>
-  <br/>
-  <div align="center">
-    <div>
-      <img align='left' style='border-radius:100px; margin-right: 20px;' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
-      <div  align='right' style='padding-left: 12px; text-align: left;'>
-        <p>
-          -   🧙‍♀️ I’m currently working as Senior Frontend Developer at Sebratec
-        </p>
-        <p>
-          -   🌱 I’m currently learning Cypress and Node.js
-        </p>
-      </div>
-    </div>
 
-  <br/>
-  <br/>
-  </div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<h2> Main Tecnologies</h2>
+## Main Tecnologies
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![styled-components](https://img.shields.io/badge/-styled_components-333333?style=flat&logo=styled-components)
