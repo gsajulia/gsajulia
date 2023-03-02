@@ -11,9 +11,9 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
    <br/>
   <br/>
   <div align="center">
-    <div style='display:flex; align-items: center;'>
-      <img style='border-radius:100px' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
-      <div style='padding-left: 12px; text-align: left;'>
+    <div>
+      <img align='left' style='border-radius:100px; margin-right: 20px;' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
+      <div  align='right' style='padding-left: 12px; text-align: left;'>
         <p>
           -   🧙‍♀️ I’m currently working as Senior Frontend Developer at Sebratec
         </p>
