@@ -1,22 +1,57 @@
 # Hi there 👋 👩‍💻
 
-- 🧙‍♀️ I’m currently working as Software Developer
-- 🌱 I’m currently learning Ruby on Rails, Redux and R (Shiny)
+I've been working with software development for more than 4 years, mainly with Frontend technologies.
+
+I love to talk and exchange ideas about the technology area. So feel free to send me a message if you have questions, curiosities or just want to chat!
 
 <div>
+ <div align="center">
+<a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a>
+</div>
    <br/>
+  <br/>
   <div align="center">
-    <img width="230px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
-     <br/>
-     <br/>
-    <a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a>
+    <div style='display:flex; align-items: center;'>
+      <img style='border-radius:100px' width="120px" alt="Julia" src="https://cdn.discordapp.com/attachments/377205899414077445/886786809953140786/profile-gif.gif">
+      <div style='padding-left: 12px; text-align: left;'>
+        <p>
+          -   🧙‍♀️ I’m currently working as Senior Frontend Developer at Sebratec
+        </p>
+        <p>
+          -   🌱 I’m currently learning Cypress and Node.js
+        </p>
+      </div>
+    </div>
+
+  <br/>
+  <br/>
   </div>
+
+<h2> Main Tecnologies</h2>
+
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![styled-components](https://img.shields.io/badge/-styled_components-333333?style=flat&logo=styled-components)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Other**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+<br/>
+
   <br/>
   <div align="center"> 
     <a href="https://www.instagram.com/julilet_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:juliagabriela98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:julia.gs.acosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/julia-gabriela-santi-acosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://gitlab.com/sajulia" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   </div>
 </div>
 
