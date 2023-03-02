@@ -9,6 +9,13 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
 -   🌱 I’m currently learning Cypress and Node.js
 
 <br/>
+<div align="center"> 
+  <a href="https://www.instagram.com/julilet_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julia.gs.acosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julia-gabriela-santi-acosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<br/>
 
 <p><a href="https://gsajulia.github.io/" color="#FB87FD" > 🔮✨ Portfolio ✨🔮 </a></p>
 <br/>
@@ -41,13 +48,7 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
 <br/>
 <br/>
 
-  <br/>
-  <div align="center"> 
-    <a href="https://www.instagram.com/julilet_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:julia.gs.acosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/julia-gabriela-santi-acosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
-</div>
+![Snake animation](https://github.com/gsajulia/gsajulia/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 <div>
@@ -56,5 +57,3 @@ I love to talk and exchange ideas about the technology area. So feel free to sen
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsajulia&layout=compact&theme=tokyonight&count_private=true"/>
 </div>
 <br/>
-
-![Snake animation](https://github.com/gsajulia/gsajulia/blob/output/github-contribution-grid-snake.svg)
